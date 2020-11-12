@@ -1,0 +1,45 @@
+﻿  Application.cpp
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(101,12): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(102,12): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(120,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(184,42): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(184,31): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(184,20): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(185,26): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(185,13): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(186,37): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(186,25): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(187,49): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(187,25): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(190,42): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(190,31): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(190,20): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(191,26): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(191,13): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(192,38): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(192,13): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(193,49): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(193,25): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(200,42): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(200,31): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(200,20): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(201,26): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(201,13): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(202,38): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(202,13): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(203,37): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(203,25): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(206,42): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(206,31): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(206,20): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(207,49): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(207,25): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(208,38): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(208,13): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(209,37): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Graphics_project_1\src\Application.cpp(209,25): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 85 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Graphics_project_1.vcxproj -> C:\Users\Dawit Michael\Desktop\floor designs\Graphics project\Graphics_project_1\Release\Graphics_project_1.exe
